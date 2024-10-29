@@ -1,8 +1,6 @@
-# Hello, I'm João 🤙
+<h1 align="center">joao.zip</h1>
 
-I'm currently a Student of Computer Science at Federal University of Sao Paulo (UNIFESP), and here is where I put some code that I write
-
-My actual [setup](https://github.com/joao-zip/dotfiles/)
+I'm currently a Student of Computer Science at Federal University of Sao Paulo (UNIFESP), and here is where I put some code that I write.
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -10,10 +8,10 @@ My actual [setup](https://github.com/joao-zip/dotfiles/)
   </a>
 </p>
 
-## <div align="center">Languages</div>
+## <div align="center">Technologies</div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js" />
   </a>
 </p>
 
