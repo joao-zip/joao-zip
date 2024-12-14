@@ -25,9 +25,9 @@ I'm currently a Student of Computer Science at Federal University of Sao Paulo (
 ## <div align="center">Contact Me</div>
 <div align="center">
   <a href="https://linkedin.com/in/joao-pedro-m-o/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:oliveira.joao@unifesp.br" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="30">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
