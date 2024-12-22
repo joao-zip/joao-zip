@@ -1,6 +1,7 @@
-<h1 align="center">joao.zip</h1>
+<img src="./logo.png" />
 
-I'm currently a Student of Computer Science at Federal University of Sao Paulo (UNIFESP), and here is where I put some code that I write.
+➡ I'm a Computer Science student at Federal University of São Paulo(<a href="https://portal.unifesp.br/" target="_blank" >UNIFESP</a>)
+➡ Here is the place where I try to code everything that looks cool to be coded
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -8,17 +9,17 @@ I'm currently a Student of Computer Science at Federal University of Sao Paulo (
   </a>
 </p>
 
-## <div align="center">Languages that I use</div>
+## <div align="center">Languages</div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,dart" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,r,py,js,ts,dart" />
   </a>
 </p>
 
-## <div align="center">Technologies that I use</div>
+## <div align="center">Frameworks/Technologies</div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,flutter,nestjs,qt,postgres,docker,arch" />
+    <img src="https://skillicons.dev/icons?i=astro,flutter,nestjs,fastapi,pytorch,qt,postgres,docker,arch" />
   </a>
 </p>
 
