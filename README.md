@@ -20,7 +20,7 @@
 ## <div align="center">Frameworks/Technologies</div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,flutter,nestjs,fastapi,pytorch,qt,postgres,docker,arch" />
+    <img src="https://skillicons.dev/icons?i=astro,flutter,nestjs,pytorch,qt,postgres,docker,arch" />
   </a>
 </p>
 
