@@ -26,7 +26,7 @@
   
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,dotnet,fastapi,qt,postgresql" />
+    <img src="https://skillicons.dev/icons?i=qt,dotnet,nestjs,rabbitmq,postgresql" />
   </a>
 </p>
   
@@ -34,7 +34,7 @@
   
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,vue,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=astro,vue,sass" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@
   
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,azure,arch" />
+    <img src="https://skillicons.dev/icons?i=docker,azure,linux" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,sklearn" /> 
+    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy" /> 
   </a>
 </p>
 
@@ -58,7 +58,7 @@
 
 ---
 
-<h2 align="center">Let's Connect!</h2>
+<h2 align="center">Contact</h2>
 
 <div align="center">
   <a href="https://linkedin.com/in/joao-pedro-m-o/" target="_blank">
