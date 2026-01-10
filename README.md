@@ -18,7 +18,7 @@
   
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,ts,py" />
+    <img src="https://skillicons.dev/icons?i=go,cs,ts,py,cpp" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@
   
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=qt,dotnet,nestjs,rabbitmq,postgresql" />
+    <img src="https://skillicons.dev/icons?i=dotnet,qt,rabbitmq,postgresql" />
   </a>
 </p>
   
@@ -34,7 +34,7 @@
   
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,vue,sass" />
+    <img src="https://skillicons.dev/icons?i=astro,vue,bootstrap" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@
   
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,azure,linux" />
+    <img src="https://skillicons.dev/icons?i=docker,azure,arch" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy" /> 
+    <img src="https://skillicons.dev/icons?i=pytorch,sklearn" /> 
   </a>
 </p>
 
@@ -61,7 +61,7 @@
 <h2 align="center">Contact</h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/joao-pedro-m-o/" target="_blank">
+  <a href="https://linkedin.com/in/joao-zip" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
   <a href="mailto:oliveira.joao@unifesp.br" target="_blank">
