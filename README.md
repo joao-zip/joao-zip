@@ -1,8 +1,10 @@
 <img src="./header.gif" />
 
-➛ I'm a Computer Science student at Federal University of São Paulo(<a href="https://portal.unifesp.br/" target="_blank" >UNIFESP</a>)
+➡️ I'm a Computer Science student at Federal University of São Paulo(<a href="https://portal.unifesp.br/" target="_blank" >UNIFESP</a>)
 
-➛ Here is the place where I try to code everything that looks cool to be coded
+➡️ Here is the place where I try to code everything that looks cool to be coded
+
+### Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -10,36 +12,23 @@
   </a>
 </p>
 
-<h2 align="center">My Tech Stack</h2>
 
-<div align="center">
   
-### Programming Languages
-  
+### Languages I use
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,cs,ts,py,cpp" />
   </a>
 </p>
 
-### Backend & Databases
-  
+### Frameworks, DBs, etc  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,qt,rabbitmq,postgresql" />
-  </a>
-</p>
-  
-### Frontend & Mobile
-  
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,vue,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=dotnet,qt,rabbitmq,postgresql,astro,vue,sass" />
   </a>
 </p>
 
 ### DevOps & Infrastructure
-  
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,azure,arch" />
@@ -47,14 +36,11 @@
 </p>
 
 ### Data Science & Machine Learning
-
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch,sklearn" /> 
   </a>
 </p>
-
-</div>
 
 ---
 
@@ -62,9 +48,9 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/joao-zip" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="My LinkedIn Profile">
   </a>
   <a href="mailto:oliveira.joao@unifesp.br" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an Email">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an Email!">
   </a>
 </div>
